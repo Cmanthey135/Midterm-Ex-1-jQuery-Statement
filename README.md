@@ -1,4 +1,4 @@
-# Web 2 Starter
+# Ex.1
 Winter 2019 Web 2 Starter. Our DIY framework.
 
 ## Dependencies
